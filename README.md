@@ -9,6 +9,7 @@ Un blog para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "c
 > - Buenas prácticas
 > - Trucos
 > - Creado por el Platzi Team
+> - Incluye ejemplos en Windows, Linux y Mac
 
 **Este readme.md fue diseñado solo para el ejemplo** con el único objetivo de practicar.
 [Ve al curso](https://platzi.com/cursos/git-github/ "Ve al curso") 
