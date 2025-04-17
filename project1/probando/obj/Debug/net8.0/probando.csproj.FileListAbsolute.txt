@@ -1,0 +1,15 @@
+/workspaces/hyperblog/project1/probando/bin/Debug/net8.0/probando
+/workspaces/hyperblog/project1/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/hyperblog/project1/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/hyperblog/project1/probando/bin/Debug/net8.0/probando.dll
+/workspaces/hyperblog/project1/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.dll
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/hyperblog/project1/probando/obj/Debug/net8.0/ref/probando.dll
