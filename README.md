@@ -1,7 +1,8 @@
 # Hyperblog 🦜
 Un blog para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "curso de Git y Github") en [Platzi](http://platzi.com/ "Platzi")
 >Estamos aprendiendo sobre control de versiones y flujos de trabajo en los equipos de desarrollo.
-> - Profesor: Freddy Vega
+> - Profesor curso 1: Freddy Vega
+> - Profesor curso 2: Amin Espinoza
 
 ## Contenido
 > - Comandos de Git
